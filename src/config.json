@@ -1,0 +1,5 @@
+{
+	"getURL": "https://interview.adpeai.com/api/v1/get-task",
+	"postURL": "https://interview.adpeai.com/api/v1/submit-task",
+	"serverRunningInterval": 6000
+}
